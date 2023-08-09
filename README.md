@@ -1,6 +1,7 @@
 ### Hi there I'm Xavier Bastidas 👋
 🌱 I’m currently learning  Backend
-![Sticker de Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Python Powered](https://www.python.org/static/community_logos/python-powered-h-140x182.png)
+
 
 
 

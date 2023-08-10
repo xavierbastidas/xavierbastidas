@@ -2,7 +2,8 @@
 
 🌱 I'm currently learning Backend development.
 
-![Python Emoticon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/snake_1f40d.png)
+![Sticker de Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 
 
 

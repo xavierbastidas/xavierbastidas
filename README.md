@@ -1,6 +1,8 @@
-### Hi there I'm Xavier Bastidas 👋
-🌱 I’m currently learning  Backend
-![Python Powered](https://www.python.org/static/community_logos/python-powered-h-140x182.png)
+# Hi there, I'm Xavier Bastidas! 👋
+
+🌱 I'm currently learning Backend development.
+
+![Python Emoticon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/snake_1f40d.png)
 
 
 

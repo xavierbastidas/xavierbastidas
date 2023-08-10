@@ -1,25 +1,23 @@
 # Hi there, I'm Xavier Bastidas! 👋
 
-🌱 I'm currently learning Backend development.
+🌱 I'm a passionate Backend Developer, currently exploring the world of Python and web development.
 
-![Sticker de Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+## About Me
 
+- 🔭 I’m currently working on building robust APIs.
+- 🌐 Visit my [website](https://www.xavierbastidas.com) to learn more about me.
+- 📚 I'm constantly learning and improving my coding skills.
+- 💬 Ask me about Python, REST APIs, and databases.
 
+## Technologies
 
+- Python | Flask | FastAPI
+- SQL | MongoDB
+- Git | Docker
 
+## Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xavierbastidas)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/xavierbastidas_)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=firefox)](https://www.xavierbastidas.com)
 
-<!--
-**xavierbastidas/xavierbastidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

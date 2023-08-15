@@ -16,5 +16,5 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://ec.linkedin.com/in/jonathan-xavier-bastidas-chisag-b31a02266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/xavierbastidas)
 

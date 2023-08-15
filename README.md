@@ -11,7 +11,7 @@
 
 ## Technologies
 
-- Python | Flask | FastAPI
+- Python | FastAPI
 - SQL | MongoDB
 - Git | Docker
 

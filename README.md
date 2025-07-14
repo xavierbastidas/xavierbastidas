@@ -23,11 +23,14 @@
 
 ---
 
-## 🚀 Featured Projects
 
--📘 SignaGB: A desktop application for digital document signing, built for efficient and secure processing.
 
-=📊 Sales System: A full-stack sales management system using Node.js (backend) and Angular (frontend).
+### 🚀 Featured Projects
+
+- [📘 **SignaGB**](https://github.com/xavierbastidas/SignerDesktopApp.git): A desktop application for digital document signing, built for efficient and secure processing.
+
+- [📊 **Sales System**](https://github.com/xavierbastidas/SalesSystem.git): A full-stack sales management system using **Node.js** (backend) and **Angular** (frontend).
+
 
 ---
 

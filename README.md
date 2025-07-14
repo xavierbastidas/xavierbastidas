@@ -25,10 +25,9 @@
 
 ## 🚀 Featured Projects
 
-👉 *(Agrega aquí enlaces a tus proyectos más relevantes)*  
-Ejemplo:
-- [📘 Book API](https://github.com/tuusuario/book-api): A REST API to manage books, built with FastAPI + MongoDB.
-- [📊 Data Dashboard](https://github.com/tuusuario/data-dashboard): Interactive dashboard using Python and Plotly.
+-📘 SignaGB: A desktop application for digital document signing, built for efficient and secure processing.
+
+=📊 Sales System: A full-stack sales management system using Node.js (backend) and Angular (frontend).
 
 ---
 
@@ -39,10 +38,5 @@ Ejemplo:
 
 ---
 
-<!-- Optional: GitHub Stats -->
-<!--
-## 📈 GitHub Stats
 
-![Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavierbastidas&show_icons=true&theme=github_dark)
--->
 

@@ -40,13 +40,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Proyectos Destacados
 
-- [📘 **SignaGB**](https://github.com/xavierbastidas/SignerDesktopApp.git): A desktop application for digital document signing, built for efficient and secure processing.
+- [📂 **Sistema de Gestión Documental Chibuleo**](https://cloud.chibuleo.com/sistemagd/login): Un sistema de gestión documental robusto, diseñado para organizar, almacenar y proteger documentos digitales de manera eficiente.
 
-- [📊 **Sales System**](https://github.com/xavierbastidas/SalesSystem.git): A full-stack sales management system using **Node.js** (backend) and **Angular** (frontend).
+- [📘 **SignaGB**](https://github.com/xavierbastidas/SignerDesktopApp.git): Aplicación de escritorio para la firma digital de documentos, creada para un procesamiento eficiente y seguro.
 
----
+- [📊 **Sistema de Ventas**](https://github.com/xavierbastidas/SalesSystem.git): Sistema de gestión de ventas fullstack desarrollado con **Node.js** (backend) y **Angular** (frontend).
+
 
 ## 📫 Connect with Me
 
